@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to my profile! 
+Somehow you are here, welcome!
+## Who am I?
+I am known on the internet as **ReShout**, I am a CS:GO player and I HvH from time to time.
 
 <!--
 **ReShout876/ReShout876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
