@@ -11,6 +11,8 @@ You can send me:
 1. an email to `ReShout@420blaze.it`
 2. Discord: ReShout#8082
 
+###### This aboutme thingy is not yet done
+
 <!--
 **ReShout876/ReShout876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
