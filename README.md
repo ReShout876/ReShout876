@@ -1,8 +1,15 @@
 # Welcome to my profile! 
 Somehow you are here, welcome!
-## Who am I?
-I am known on the internet as **ReShout**, I am a CS:GO player.
-###### idk what else should i add
+## $ whoami
+Hello! I am known on the internet as `ReShout` or `ReShout876`. 
+
+I am currently learning Python.
+
+I'd like to share my learning adventure on my blog!!
+## Contact me!
+You can send me:
+1. an email to `ReShout@420blaze.it`
+2. Discord: ReShout#8082
 
 <!--
 **ReShout876/ReShout876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
