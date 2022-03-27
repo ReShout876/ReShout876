@@ -1,9 +1,9 @@
 # Welcome to my profile! 
 Somehow you are here, welcome!
-## $ whoami
+## print("Who am I?")
 Hello! I am known on the internet as `ReShout` or `ReShout876`. 
 
-I am currently learning Python.
+I am currently learning Lua.
 
 I'd like to share my learning adventure on my blog!!
 ## Contact me!
