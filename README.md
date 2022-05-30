@@ -1,29 +1,12 @@
 # Welcome to my profile! 
-Somehow you are here, welcome!
-## print("Who am I?")
-Hello! I am known on the internet as `ReShout` or `ReShout876`. 
+Hello, I am somewhat new at coding.  
+In my "code learning adventure" I will be using:  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  as the IDE  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  as the language  
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  as the OS (I mainly use)  
+![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)  as the DE  
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  as my main Browser  
 
-I am currently learning Lua.
-
-I'd like to share my learning adventure on my blog!!
-## Contact me!
-You can send me:
-1. an email to `ReShout@420blaze.it`
-2. Discord: ReShout#8082
-
-###### This aboutme thingy is not yet done
-
-<!--
-**ReShout876/ReShout876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### my stats stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReShout876&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReShout876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
