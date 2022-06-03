@@ -9,4 +9,3 @@ In my "code learning adventure" I will be using:
 
 ###### my stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReShout876&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReShout876)](https://github.com/anuraghazra/github-readme-stats)
